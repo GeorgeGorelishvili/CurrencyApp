@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="horizontal"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/currency_text"
+            android:textSize="@dimen/big_text"
+            android:layout_width="@dimen/field_height"
+            android:layout_height="wrap_content"/>
+
+        <EditText
+            android:id="@+id/amount_buy"
+            android:textSize="@dimen/big_text"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="@dimen/field_height"
+            android:inputType="number|numberDecimal"
+            android:imeOptions="actionDone"
+            android:enabled="false"/>
+
+        <EditText
+            android:id="@+id/amount_sell"
+            android:textSize="@dimen/big_text"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="@dimen/field_height"
+            android:inputType="number|numberDecimal"
+            android:imeOptions="actionDone"
+            android:enabled="false"/>
+
+        <ImageButton
+            android:id="@+id/button_edit"
+            android:src="@drawable/ic_action_edit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+</LinearLayout>

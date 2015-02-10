@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Exchange</string>
+
+    <string name="calculation_view">კალკულატორი</string>
+    <string name="configuration">კონფიგურაცია</string>
+    <string name="currency_buy">ყიდვა</string>
+    <string name="currency_sell">გაყიდვა</string>
+
+    <string name="action_config">კონფიგურაცია</string>
+    <string name="action_about">შესახებ</string>
+    <string name="action_done">შენახვა</string>
+</resources>

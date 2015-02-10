@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="flags">
+        <item>@drawable/ic_gel</item>
+        <item>@drawable/ic_usd</item>
+        <item>@drawable/ic_eur</item>
+        <item>@drawable/ic_rub</item>
+        <item>@drawable/ic_gbp</item>
+        <item>@drawable/ic_amd</item>
+        <item>@drawable/ic_try</item>
+        <item>@drawable/ic_uah</item>
+        <item>@drawable/ic_azn</item>
+        <item>@drawable/ic_azm</item>
+        <item>@drawable/ic_cad</item>
+        <item>@drawable/ic_chf</item>
+        <item>@drawable/ic_gbp</item>
+    </array>
+</resources>
